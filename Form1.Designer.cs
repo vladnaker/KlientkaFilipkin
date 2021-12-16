@@ -40,7 +40,7 @@
             // button1
             // 
             this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F);
-            this.button1.Location = new System.Drawing.Point(140, 18);
+            this.button1.Location = new System.Drawing.Point(141, 18);
             this.button1.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(303, 82);
